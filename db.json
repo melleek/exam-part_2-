@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "images/jin.jpg",
+      "h1": "Kim Seokjin",
+      "h2": "Jin",
+      "Role": "Vocalist",
+      "age": "30 years",
+      "birthplace": "Gwacheon",
+      "education": "Art and acting",
+      "delete": "",
+      "edit": "",
+      "iscomplete": false
+    },
+    {
+      "id": 2,
+      "img": "images/rm.jpg",
+      "h1": "Kim Namjoon",
+      "h2": "Suga",
+      "Role": "Lead rapper",
+      "age": "30 years",
+      "birthplace": "Buk-gu",
+      "education": "Liberal Arts Major",
+      "delete": "",
+      "edit": "",
+      "iscomplete": false
+    },
+    {
+      "id": 3,
+      "img": "images/suga.jpg",
+      "h1": "Min Yoongi",
+      "h2": "RM",
+      "Role": "Leader, main rapper ",
+      "age": "28 years",
+      "birthplace": "Ilsan",
+      "education": "Broadcasting and Entertainment",
+      "delete": "",
+      "edit": "",
+      "iscomplete": false
+    },
+    {
+      "id": 4,
+      "img": "images/jhope.jpg",
+      "h2": "Jung Ho Seok",
+      "h1": "J-Hope",
+      "Role": "Main dancer, rapper, sub-vocalist",
+      "age": "29 years",
+      "birthplace": "Gwangju",
+      "education": "Broadcasting and Entertainment",
+      "delete": "",
+      "edit": "",
+      "iscomplete": false
+    },
+    {
+      "id": 5,
+      "img": "images/jimin.jpg",
+      "h1": "Park Jimin",
+      "h2": "Jimin",
+      "Role": "Main dancer, lead vocalist",
+      "age": "28 years",
+      "birthplace": "Busan",
+      "education": "Broadcasting and Entertainment",
+      "delete": "",
+      "edit": "",
+      "iscomplete": false
+    },
+    {
+      "id": 6,
+      "img": "images/v.jpg",
+      "h1": "Kim Taehyung",
+      "h2": "V",
+      "Role": "Lead dancer, vocalist, visual",
+      "age": "27 years",
+      "birthplace": "Daegu",
+      "education": "Broadcasting and Entertainment",
+      "delete": "",
+      "edit": "",
+      "iscomplete": false
+    },
+    {
+      "id": 7,
+      "img": "images/jk.jpg",
+      "h1": "Jeon Jeong-guk",
+      "h2": "JK",
+      "Role": "Main vacalist, lead dancer, sub-rapper, center",
+      "age": "26 years",
+      "birthplace": "Busan",
+      "education": "Broadcasting and Entertainment",
+      "delete": "",
+      "edit": "",
+      "iscomplete": false
+    }
+  ]
+}
